@@ -2,7 +2,7 @@
 
 ## Getting Started
 A UI/UX design for a Food delivery application based on a real life scenario made with `Vue.js` and `Vuetify`.<br>
-Hosted at Github Pages [here](https://shreyans13.github.io/Eats/#/).
+
 
 ## Some Features
 - Progressive Web App (PWA) supported.
